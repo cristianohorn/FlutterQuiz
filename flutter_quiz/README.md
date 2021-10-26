@@ -1,18 +1,6 @@
-# flutter_quiz
+# Flutter Quiz
 
-A new Flutter project.
+Projeto mobile desenvolvido com o framework Flutter utilizando a linguagem Dart. 
+O projeto consiste em um quiz de perguntas e respostar com pontuação que soma o valor das respostas e atribui um resultado.  
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-![image](https://user-images.githubusercontent.com/11981035/138910975-7cb19e94-22ae-4b6c-9cde-015922da1a68.png)
+![image](https://user-images.githubusercontent.com/11981035/138912921-b09e7ff2-d65b-4458-aca5-f2eb1e3b74f9.png)
